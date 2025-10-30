@@ -1,5 +1,3 @@
--- Basic Settings
--- =====================
 vim.cmd("set expandtab")
 vim.cmd("set tabstop=2")
 vim.cmd("set softtabstop=2")
